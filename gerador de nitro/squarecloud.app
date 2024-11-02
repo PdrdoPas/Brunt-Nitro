@@ -1,0 +1,7 @@
+DISPLAY_NAME=Black$ Gen
+MAIN=main.py
+VERSION=recommended
+MEMORY=548
+AUTORESTART=true
+DESCRIPTION=Bot
+START=npm start
